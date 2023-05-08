@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning COMPUTER SCIENCE ENGINEERING...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 974345750...
-- I AM AN AI ENTHUSIAST AND JAVA AND APP DEVOLOPMENT 
+- I AM AN MACHINE LEARNING ENTHUSIAST AND ALSO UI/UX DESIGNS
+-  
 
 <!---
 simplyworse273/simplyworse273 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
